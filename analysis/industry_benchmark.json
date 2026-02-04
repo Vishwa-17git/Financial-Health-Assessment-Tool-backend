@@ -1,0 +1,14 @@
+{
+  "retail": {
+    "avg_profit_margin": 12,
+    "safe_cash_flow": 0
+  },
+  "manufacturing": {
+    "avg_profit_margin": 18,
+    "safe_cash_flow": 0
+  },
+  "services": {
+    "avg_profit_margin": 25,
+    "safe_cash_flow": 0
+  }
+}
